@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Haaliron</h1>
+<h2 align="center">-Türkçe-</h2>
 <h3 align="center">Merhaba ben Haaliron. Gerçek adım Halim DEMİR. 2021 yılında Java ile mobil uygulamalar geliştirerek yazılım dünyasına adım attım. 2023 e kadar çeşitli mobil uygulamalar ve oyunlar yaptım. Bir kısımını da Google Play Store'a yükledim. 2023'ten sonra web alanına yöneldim. önce C#, MVC ile bir kargo takip sistemi yaptım sonrasında kendime bir websitesi yaptım. Daha sonrasında yeniliğe ayak uydurabilmek adına React üzerinde çalışmaya başladım ve hala üzerinde çalışmaya devam ediyorum.</h3>
+<h2 align="center">-English-</h2>
+<h3 align="center">Hello, I’m Haaliron. My real name is Halim DEMİR. I entered the software world in 2021 by developing mobile applications with Java. Until 2023, I created various mobile apps and games, some of which I uploaded to the Google Play Store. After 2023, I shifted to web development. I first built a cargo tracking system using C# and MVC, then created my own website. To keep up with new trends, I started working with React and continue to do so.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haaliron&label=Profile%20views&color=0e75b6&style=flat" alt="haaliron" /> </p>
 
